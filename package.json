@@ -1,0 +1,13 @@
+{
+  "name": "Access_Refresh_Token_Study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/strongfeel/Access_Refresh_Token_Study.git",
+  "author": "GangPil Song <92740959+strongfeel@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
